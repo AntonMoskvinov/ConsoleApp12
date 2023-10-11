@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{937C6926-1337-4349-ACB5-348FF2246E9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{990C641C-BF25-40A7-9968-680FE7A9F042}"
+	ProjectSection(SolutionItems) = preProject
+		cAdisyon.cs = cAdisyon.cs
+		cGenel.cs = cGenel.cs
+		Class1.cs = Class1.cs
+		cMasalar.cs = cMasalar.cs
+		cOdeme.cs = cOdeme.cs
+		cPaketler.cs = cPaketler.cs
+		cPersonelGorev.cs = cPersonelGorev.cs
+		cPersonelHareketleri.cs = cPersonelHareketleri.cs
+		cPersoneller.cs = cPersoneller.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937C6926-1337-4349-ACB5-348FF2246E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937C6926-1337-4349-ACB5-348FF2246E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937C6926-1337-4349-ACB5-348FF2246E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937C6926-1337-4349-ACB5-348FF2246E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC96F774-2BF5-4CA5-8B59-1654FBF8E5E3}
+	EndGlobalSection
+EndGlobal
